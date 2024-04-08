@@ -1,0 +1,40 @@
+* {
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    align-content: center;
+}
+h1 {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+p {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+img {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+
+.box {
+    border-radius: 50px;
+    background-color: #1D2951;
+    margin-top: 50px;
+    box-shadow: 10px 10px;
+    width: auto;
+}
+
+form {
+    margin-top: 30px;
+    margin-left: 100px;
+}
